@@ -13,7 +13,7 @@ class HomePage extends StatelessWidget {
       backgroundColor: Colors.grey[300],
       floatingActionButton: FloatingActionButton(
         onPressed: () {},
-        backgroundColor: Colors.pink,
+        backgroundColor: Colors.white,
         child: const Icon(
           Icons.monetization_on,
           size: 32,
